@@ -21,6 +21,12 @@ Original Korean skincare pricing statistics from KBeautyIntel. This repository h
 
 ## License and attribution
 
+step by step: Add this one line to each of the three other dataset pages:
+
+```
+Cite as: KBeautyIntel. (2026). K-Beauty Price Report: Data (October 2026) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23397584
+```
+
 Free to use, including commercially, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution with a link is required:
 
 > Source: KBeautyIntel K-Beauty Price Report, October 2026, https://www.kbeautyintel.com/price-report
