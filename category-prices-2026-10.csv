@@ -1,0 +1,5 @@
+category,n,median_price_usd,mean_price_usd,median_price_per_ml_usd,mean_price_per_ml_usd
+serums,172,21.43,22.15,0.51,0.587
+moisturizers,74,20.96,21.13,0.328,0.361
+cleansers,62,16.32,17.17,0.105,0.123
+sunscreens,104,16.38,17.01,0.371,0.436
